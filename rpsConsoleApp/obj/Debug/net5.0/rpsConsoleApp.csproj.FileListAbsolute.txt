@@ -1,0 +1,16 @@
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\bin\Debug\net5.0\rpsConsoleApp.exe
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\bin\Debug\net5.0\rpsConsoleApp.deps.json
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\bin\Debug\net5.0\rpsConsoleApp.runtimeconfig.json
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\bin\Debug\net5.0\rpsConsoleApp.runtimeconfig.dev.json
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\bin\Debug\net5.0\rpsConsoleApp.dll
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\bin\Debug\net5.0\ref\rpsConsoleApp.dll
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\bin\Debug\net5.0\rpsConsoleApp.pdb
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.csproj.AssemblyReference.cache
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.AssemblyInfoInputs.cache
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.AssemblyInfo.cs
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.csproj.CoreCompileInputs.cache
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.dll
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\ref\rpsConsoleApp.dll
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.pdb
+C:\JonathanD\c#Projects\rpsConsoleApp\rpsConsoleApp\obj\Debug\net5.0\rpsConsoleApp.genruntimeconfig.cache
